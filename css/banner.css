@@ -1,0 +1,39 @@
+.box21{
+	margin: 0%;
+width: 80%;
+height:auto;
+background-color: #fff; 
+}
+
+
+.box22{
+margin: 0%;
+width: 33%;
+height:auto;
+background-color: #000; 
+float: left;
+}
+
+.box23{
+margin: 0%;
+width: 33%;
+height:auto;
+float:right;
+}
+
+
+.box24{
+margin: 0%;
+width: 33%;
+height:auto;
+background:; 
+
+}
+
+.box25{
+margin-top: 10%;
+margin-bottom: 10%;
+width: 33%;
+height:auto;
+
+}
