@@ -1,4 +1,140 @@
+/**
+ * Demo Styles
+ */
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+.box1 {
+
+    width: 60%;
+    height: 99%;
+    background-color:; 
+    border: px solid green;
+    padding: px;
+    margin-left:5%;
+
+}
+
+.box2 {
+    width: 45%;
+    height: 70%;
+    float:right;
+    background-color:; 
+    border: px solid green;
+    padding: px;
+    margin-top:9% ;
+   
+} 
+
+.box3 {
+    width: 35%;
+    height: 78%;
+    float:right;
+    background-color:; 
+    border: px solid green;
+    padding: px;
+    margin-left:;
+     margin-top:5% 
+
+  
+}
+
+.box4 {
+    width: 100%;
+    height: 700px;
+    float:center;
+    background-color:#555; 
+    border:  ;
+    padding: ;
+    margin-left:;
+     margin-top:
+
+  
+}
+
 body {
-	
-	background-color: #555;
+  position: relative;
+  margin: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+
+
+/**
+ * Footer Styles
+ */
+
+.footer {
+  height:40%;
+  border-radius: 1px;
+  background-image:url(mq.jpg);
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #000;
+  text-align: ;
+  color:#fff;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: ;
+    border: ;
+}
+
+li a {
+    display: block;
+    opacity: 0.5;
+    color: #ffefd5;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+li {
+    text-align: center;
+    border-bottom: 1px solid #555;
+
+}
+
+li:last-child {
+    border-bottom: ;
+
+}
+
+li a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+
+.input[type=text] {
+    width: 130px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    background-color:;
+}
+
+/* When the input field gets focus, change its width to 100% */
+input[type=text]:focus {
+    width: 50%;
 }
