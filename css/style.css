@@ -4,3 +4,47 @@ body {
 	margin-top: 0%;
 }
 
+.point-btn
+            {
+                width: 30%;
+                color: #fff;
+                font-family: arial;
+                padding-bottom:15px;
+                font-size: 1em;
+                background: #000;
+                position: absolute;
+            }
+            .point-btn:before
+            {
+                content:"";
+                position: absolute;
+                left: 100%;
+                width: 0;
+                height: 0;
+                border-top: 17px solid transparent;
+                border-left: 14px solid #000;
+                border-bottom: 17px solid transparent;
+            }
+
+
+            .nej
+            {
+                width: 30%;
+                color: #fff;
+                font-family: arial;
+                padding-bottom:15px;
+                font-size: 1em;
+                background: #000;
+                position: absolute;
+            }
+            .nej:before
+            {
+                content:"";
+                position: absolute;
+                left: 100%;
+                width: 0;
+                height: 0;
+                border-top: 17px solid transparent;
+                border-left: 14px solid #000;
+                border-bottom: 17px solid transparent;
+            }
