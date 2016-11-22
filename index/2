@@ -25,7 +25,7 @@
 </div>
 	<div class="box3">
 <ul class="ul" id="li">
-  <li><a href=""><ins>PRIVAT PERSSON</ins></a></li>
+  <li><a href="">PRIVAT PERSSON</a></li>
   <li><a href="">FÖRETAG</a></li>
 </ul>
 </div>
@@ -35,23 +35,21 @@
 	<div class="box22"></div>
 	<div class="box23">
 		<div class="box25">
-		<a href="#"><img src="http://www.clipartkid.com/images/48/black-heart-clip-art-at-clker-com-vector-clip-art-online-royalty-XWyoIo-clipart.png" width="15%" height="20%">
-		<a href="#"><img src="http://www.clipartkid.com/images/31/log-in-sign-up-upload-clipart-KlWjDn-clipart.png" width="15%" height="20%">
-		<a href="#"><img src="https://image.freepik.com/free-icon/shopping-cart_318-41608.jpg" width="15%" height="20%">
+		<a href="#"><img src="http://www.clipartkid.com/images/48/black-heart-clip-art-at-clker-com-vector-clip-art-online-royalty-XWyoIo-clipart.png" width="20%" height="20%">
+		<a href="#"><img src="http://www.clipartkid.com/images/31/log-in-sign-up-upload-clipart-KlWjDn-clipart.png" width="20%" height="20%">
+		<a href="#"><img src="https://image.freepik.com/free-icon/shopping-cart_318-41608.jpg" width="20%" height="20%">
 		</div></div>
 	<div class="box24"><img src="http://resources.mynewsdesk.com/image/upload/t_social_network_image/yvh1elurgg8uf3ma3a2a.jpg" width="60%" height="60%" border="0"></a></div>
 	</div>
 
 <div class="box1">
-	<ul id="navigation"> 
-		<strong>
+	<ul id="navigation">
 		<li class=""> <a href="#">SHOP</a> </li>
 		<li class=""> <a href="#">SENASTE NYTT</a> </li>
 		<li class=""> <a href="#">KOSMETIKA</a> </li>
 		<li class=""> <a href="#">SKOR</a> </li>
 		<li class=""> <a href="#">ACCESSOARER</a> </li>
 		<li class=""> <a href="#">SKOR</a></li>
-	    </strong>
 </ul>
 </div>
 <div class="box26">
@@ -70,34 +68,8 @@
 		DENNA VECKAN
 </div>
 	</div>
-
-
-
-
-	<div class="box200">
-
-		<div class="box201">
-			<div class="box203">
-				<div class="box205">
-					<a class="two" href="#" target="_blank">SHOPPA KLOCKOR</a></div></div>
-
-				<div class="box204">
-				<div class="box205"><a class="two" href="#" target="_blank">NYHETER</a></div></div>
-			</div>
-
-		<div class="box202">
-			<div class="box206">
-				<div class="box205"><a class="two" href="#" target="_blank">SHOPPA SKOR</a></div></div>
-		</div>
-
+	<div class="box40">
 	</div>
-
-
-
-
-
-
-
 
 	<div class="box50"> ▬▬▬ NYHETER DENNA VECKAN ▬▬▬</div>
 
@@ -151,6 +123,8 @@
 
 
 
+
+
 <div class="box60">
 
 	<div class="box63">
@@ -190,49 +164,36 @@
 			<br><button type="button" onclick="window.location.href='index.html'" >KÖP NU</a></button>
 			 </div></div>
 			 <br>
-
-
-
-			 </body>
 			 <div class="box79">
 			 	<div class="box80">
 			 		<div class="box82"> +46 33-20 60 20<br><br> INFO@VISKAN.SE <br><br>DRUVEFORSVÄGEN 8 504 33 BORÅS, SWEDEN</div>
 			 		<div class="box83">
-			 			<a href="#" style="color:#fff"><u> SHOP</a> <br><br>
+			 			<a href="#" style="color:#fff"> SHOP</a> <br><br>
 			 			<a href="#" style="color:#fff"> KOSMETIKA   </a><br><br>
 			 			<a href="#" style="color:#fff">SKOR   </a><br><br>
-			 			<a href="#" style="color:#fff">POSTERS</u>   </a><br><br><br>
-			 			NYHETSBREV:
+			 			<a href="#" style="color:#fff">POSTERS   </a><br><br>
+			 			NYHETSBREV
 			 			 <section class="hej">
-
 			 			 	<form action="index.html">
 			 			 		<input class="hej-input" placeholder="Email address">
 			 			 	</form>
 			 			 </section>
 			 			</div>
-	<div class="box84"><a href="#" style="color:#fff"> SUPPORT</a> 
-		<br><br><a href="#" style="color:#fff"> KONTAKTA OSS</a> 
-		<br><br><a href="#" style="color:#fff"> FÖRETAGSANSVAR </a> 
-		<br><br><a href="#" style="color:#fff">KUNDKLUBB</a> </div>
+	<div class="box84"> SUPPORT <br><br> KONTAKTA OSS<br><br> FÖRETAGSANSVAR <br><br>KUNDKLUBB</div>
 </div>
-
-
-
 <div class="box81">
 	<div class="box85">
 <div class="box90">
-	<a href="#"><img src="../pic/in.png"  width="15%" height="" border="0" ></a>
-	<a href="#"><img src="https://www.uspca.com/wp-content/uploads/facebook-logo-png-white-i6.png"  width="15%" height="" border="0" ></a>
-	<a href="#"><img src="http://www.iconsdb.com/icons/preview/white/twitter-xxl.png"  width="15%" height="" border="0" ></a>
-	<a href="#"><img src="https://www.youtube.com/yt/brand/media/image/YouTube_light_color_icon.png"  width="15%" height="" border="0" ></a>
-
-
-
-	 </div>
+	<a href="#"><img src="../pic/in.png"  width="15%" height="" border="0" >
+	<a href="#"><img src="https://www.uspca.com/wp-content/uploads/facebook-logo-png-white-i6.png"  width="15%" height="" border="0" >
+	<a href="#"><img src="https://www.youtube.com/yt/brand/media/image/YouTube_light_color_icon.png"  width="15%" height="" border="0" hspace="1%">
+	<a href="#"><img src="http://www.iconsdb.com/icons/preview/white/twitter-xxl.png"  width="15%" height="" border="0" hspace="1%">
 	 </div>
 	</div>
 </div>
+<div class="box86">
+    </div>
 </div>
-
+</body>
 </center>
 </html>
