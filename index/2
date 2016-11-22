@@ -25,7 +25,7 @@
 </div>
 	<div class="box3">
 <ul class="ul" id="li">
-  <li><a href=""><ins>PRIVAT PERSSON</ins></a></li>
+  <li><a href="">PRIVAT PERSSON</a></li>
   <li><a href="">FÖRETAG</a></li>
 </ul>
 </div>
@@ -43,15 +43,13 @@
 	</div>
 
 <div class="box1">
-	<ul id="navigation"> 
-		<strong>
+	<ul id="navigation">
 		<li class=""> <a href="#">SHOP</a> </li>
 		<li class=""> <a href="#">SENASTE NYTT</a> </li>
 		<li class=""> <a href="#">KOSMETIKA</a> </li>
 		<li class=""> <a href="#">SKOR</a> </li>
 		<li class=""> <a href="#">ACCESSOARER</a> </li>
 		<li class=""> <a href="#">SKOR</a></li>
-	    </strong>
 </ul>
 </div>
 <div class="box26">
@@ -70,34 +68,8 @@
 		DENNA VECKAN
 </div>
 	</div>
-
-
-
-
-	<div class="box200">
-
-		<div class="box201">
-			<div class="box203">
-				<div class="box205">
-					<a class="two" href="#" target="_blank">SHOPPA KLOCKOR</a></div></div>
-
-				<div class="box204">
-				<div class="box205"><a class="two" href="#" target="_blank">NYHETER</a></div></div>
-			</div>
-
-		<div class="box202">
-			<div class="box206">
-				<div class="box205"><a class="two" href="#" target="_blank">SHOPPA SKOR</a></div></div>
-		</div>
-
+	<div class="box40">
 	</div>
-
-
-
-
-
-
-
 
 	<div class="box50"> ▬▬▬ NYHETER DENNA VECKAN ▬▬▬</div>
 
@@ -148,6 +120,8 @@
 
 
 				<div class="box51"> ▬▬▬ POPULÄRA PRODUKTER ▬▬▬</div>
+
+
 
 
 
@@ -217,11 +191,9 @@
 	 </div>
 	</div>
 </div>
+<div class="box86">
+    </div>
 </div>
-
-
-
-
 </body>
 </center>
 </html>
