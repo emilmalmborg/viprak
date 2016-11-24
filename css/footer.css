@@ -209,3 +209,16 @@ a.four{
 
 
 }
+
+
+
+a.six{
+
+  text-decoration: none;
+  color: #fff;
+}
+
+a.six:hover{
+  color: #888;
+  text-decoration: none;
+}
