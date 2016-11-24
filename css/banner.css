@@ -33,7 +33,7 @@ background:;
 .box25{
 margin-top: 10%;
 margin-bottom: 10%;
-width:40%;
+width:80%;
 height:auto;
 
 }
@@ -352,7 +352,7 @@ color: #fff;
 font-size:0.8vw;
 font-family:arial;
 padding: 1%;
-border: 1px;
+border:0.1vw;
 border-style: solid;
 border-color: #fff;
 
