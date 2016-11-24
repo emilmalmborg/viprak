@@ -1,50 +1,50 @@
 
 .box79{
-width: 80%;
-height: auto;
-  background:url(http://miacucina.com/mia/wp-content/uploads/2015/02/Closetsfurniture.jpg); ) no-repeat center center;
+width:100%;
+overflow: hidden;
+height:auto;
+margin-top:0%;
+background:url(http://miacucina.com/mia/wp-content/uploads/2015/02/Closetsfurniture.jpg); ) no-repeat center center;
  -webkit-background-size: cover;
  -moz-background-size: cover;
  -o-background-size: cover;
- background-size: 100%;
+ background-size:100%;
  background-repeat: no-repeat;
  max-width: initial;
  max-height: initial;
- padding-top: 4%;
-  padding-bottom: 4%;
- background-size: contain;
+ padding-top:0%;
+  padding-bottom:0%;
  background-position: center;
-    border-top-left-radius:3vw;
+    border-top-left-radius:0%;
 }
 .box80{
 width: 80%;
 height:auto;
+overflow: hidden;
  }
 
 }
 .box81{
 width: 80%;
 height:auto;
-background-color: #555; 
 }
 
 
 .box82{
-width: 30%;
-height: auto;
-float: left;
-padding-bottom: 1%;
-padding-top: 5%;
+width: 100%;
+height:auto;
+overflow: hidden;
 color: #fff;
 font-family:Verdana, sans-serif;
 font-size: 0.8vw;
 text-align: center;
-text-decoration: none;
+text-decoration: ;
+margin-bottom: 2%;
 }
 
 .box83{
 width: 30%;
-float: right;
+float:left;
 height:auto;
 padding-bottom: 1%;
 padding-top: 5%;
@@ -58,6 +58,7 @@ display:block;
 
 .box84{
 width: 30%;
+float:right;
 height:auto;
 padding-bottom: 1%;
 padding-top: 5%;
@@ -65,18 +66,21 @@ color: #fff;
 font-family:Verdana, sans-serif;
 font-size: 0.8vw;
 text-align: center;
-text-decoration: none;
+text-decoration: ;
+display:block;
 }
 
 .box85{
-width: 50%;
-float: left;
-height:100px;
+width: 30%;
+height:auto;
+padding-bottom: 1%;
+padding-top: 5%;
 color: #fff;
 font-family:Verdana, sans-serif;
 font-size: 0.8vw;
 text-align: center;
-text-decoration: none;
+text-decoration: ;
+display:block;
 }
 
 
@@ -104,11 +108,28 @@ height:auto;
 margin-top: 0%;
 }
 
+.box1001{
+width:30%;
+float: left;
+height:auto;
+}
+
+.box1002{
+width: 20%;
+float:right;
+height:auto;
+padding-right:10%;
+text-align:right;
+}
+
 
 a.two{
 
 	text-decoration: none;
 	color:#fff ;
+font-size: 1vw;
+    display: inline;
+
 
 
 }
@@ -117,8 +138,24 @@ a.two:hover{
 
 	text-decoration: none;
 	color:#888 ;
+font-family: arial;
+}
+
+a.three{
+
+  text-decoration: none;
+  color:#000 ;
+
 
 }
+
+a.three:hover{
+
+  text-decoration: none;
+  color:#888 ;
+
+}
+
 
 
 
@@ -128,8 +165,8 @@ a.two:hover{
 	margin-top: 0%;
   color: #;
   margin-left: 0%;
-  font-size: 1em;
-  width: 65%;
+  font-size: 0.8vw;
+  width:55%;
   height:auto;
   background:transparent;
     border-radius: 5px;
@@ -155,8 +192,20 @@ a.two:hover{
 a{
 
 	text-decoration: none;
+  color: #fff;
+}
+
+a:hover{
+  color: #888;
+  text-decoration: none;
 }
 
 
 
+a.four{
 
+  text-decoration: none;
+  color:#fff ;
+
+
+}

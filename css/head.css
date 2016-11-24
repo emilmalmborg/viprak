@@ -37,7 +37,7 @@ li a {
 	height:0em;
     display: block;
     font-family: arial;
-   font-size:0.7vw;
+   font-size:0.9vw;
     color: #fff;
     text-align: center;
     padding: 1em 1em 2em 2em;
@@ -68,7 +68,7 @@ li a:hover {
     height:0em;
     display: block;
     font-family: arial;
-    font-size:0.6vw;
+    font-size:0.8vw;
     color: #000;
     text-align: center;
     padding: 1em 1em 2em 2em;
